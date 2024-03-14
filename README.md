@@ -1,6 +1,6 @@
 # 💫About Me :
 ```
-🍀 Hello, i am Le Hoang Anh
+🍀 Hello, I'm Le Hoang Anh
 🏢 I'm currently interning at GSolution company
 ⚡ I'm currently studying at FPT University, majoring in Software Engineering.
 🤖 I'm also exploring and learning more about Data Analysis.

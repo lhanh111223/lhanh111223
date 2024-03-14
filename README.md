@@ -1,5 +1,6 @@
 # 💫About Me :
 🍀 Hello, i am Le Hoang Anh
+
 🏢 I'm currently working on GSolution
 ⚡ I'm currently learning Data and Software 
 💬 Ask me about programming topics

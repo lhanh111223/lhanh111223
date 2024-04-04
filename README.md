@@ -27,4 +27,3 @@ Courage is the ability to keep going even when things get tough or uncertain.
 ---
 [![](https://visitcount.itsvg.in/api?id=lhanh111223&icon=5&color=0)](https://visitcount.itsvg.in)
 
-[![](https://visitcount.itsvg.in/api?id=lhanh111223&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
